@@ -14,14 +14,17 @@ html {
     height: 100%;
 }
 
-.navbar {
+/*.navbar {
   border: 1px solid #158429;
   background: #000000;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to left, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to left, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-}
+}*/
 
+.navbar {
+  background-color: green;
+}
 
 
 @media(min-width:767px) {
@@ -88,13 +91,18 @@ of those sections to manage the look and feel of the site. */
   font-family: 'Playfair Display', serif;
 }
 
+.ebay-section h2 {
+  font-family: 'Playfair Display', serif;
+  text-decoration: none;
+}
+
 .about-info  {
   height: auto;
   padding-bottom: 100px;
 }
 
 .antiques-section {
-    height: 100%;
+    height: auto;
     padding-top: 100px;
     text-align: center;
     background: #fff;
@@ -109,11 +117,22 @@ of those sections to manage the look and feel of the site. */
   color: white;
 }
 
-.contact-section {
+/*.contact-section {
     height: 100%;
     padding-top: 100px;
     text-align: center;
     background: #eee;
+}*/
+
+.footer {
+  background-color:gray;
+  height: auto;
+  width: 100%;
+  padding-top:1em;
+}
+
+.footer a {
+  color:black;
 }
 
 .line {

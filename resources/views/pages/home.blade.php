@@ -20,7 +20,7 @@
                   <p></p>
                   <p>Antiques, Contemporary Homeware & Just Great Stuff!</p>
                   <!-- <div class="btn btn-custom page-scroll" href="#about">Learn More</div> -->
-                  <a class="page-scroll" href="#about"><div class="btn btn-primary"  style="background-color: #158429;padding:10px;">Learn More</div></a>
+                  <a class="page-scroll" href="#about"><div class="btn btn-primary"  style="background-color: #16511f;padding-top:1.2em; padding-bottom:1.2em; padding-right:3em;padding-left:3em; width: auto; border-radius:25px;margin-top:2em; font-size:18px;">Learn More</div></a>
                 </div>
             </div>
         </div>
@@ -42,13 +42,16 @@
             <div class="row about-info" style="margin-top: 3%;">
               <div class="col-lg-4 col-md-4 col-xs-12">
                 <img style="margin: 0 auto 19px; height: 9rem; width: 9rem;" src="{{asset('/images/home.svg')}}">
-                <p>"Bernalese" is a retail concept in progress which builds upon the electic notion that many aspects of collecting and acquiring are melded together to create a home"</p></div>
+                <h3>More Than A House</h3>
+                <p>"Bernalese" is a retail concept in progress which builds upon the electic notion that many aspects of collecting and acquiring are melded together to create a home.</p></div>
               <div class="col-lg-4 col-md-4 col-xs-12">
                 <img style="margin: 0 auto 19px; height: 9rem; width: 9rem;" src="{{asset('/images/tools.svg')}}">
-                <p>Our retail store is forthcoming in San Francisco - stay tuned - and we will make a limited assortment of specific items availble for purchase via eBay. Our initial on-line offering is a small collection of World Craft items sourced from Southeast Asia.</p></div>
+                <h3>In Development</h3>
+                <p>Our flag ship retail store is forthcoming in San Francisco, California - stay tuned!</p></div>
               <div class="col-lg-4 col-md-4 col-xs-12">
-                <img style="margin: 0 auto 19px; height: 9rem; width: 9rem;" src="{{asset('/images/donation.svg')}}">
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
+                <img style="margin: 0 auto 19px; height: 9rem; width: 9rem;" src="{{asset('/images/cart.svg')}}">
+                <h3>To Hold You Over</h3>
+                <p>A limited assortment of specific items will be availble for purchase via <a href="http://www.ebay.com/usr/bernalese_sf" target="_blank">eBay</a>. Our initial on-line offering is a small collection of World Craft items sourced from Southeast Asia.</p></div>
             </div>
         </div>
     </section>
@@ -58,8 +61,8 @@
     <section id="ebay" class="ebay-section">
       <div class="container">
         <div class="row">
-          <div class="col-lg-12 col-md-12 col-xs-12 text-align"><h2>Check Out Our Limited Items</h2></div>
-          <a href="http://www.ebay.com/usr/bernalese_sf" target="_blank"><div class="btn btn-primary" style="background-color: #158429;padding:10px;">See More</div></a>
+          <div class="col-lg-12 col-md-12 col-xs-12 text-align"><h2>Check Out Our Initial Online Offering</h2></div>
+          <a href="http://www.ebay.com/usr/bernalese_sf" target="_blank"><div class="btn btn-primary" style="background-color: #16511f;padding:10px;">See More</div></a>
           </div>
         </div>
     </section>
@@ -75,16 +78,49 @@
               </br/></h1>
               </div>
           </div>
+          <div class="row" style="margin-bottom: 4em;">
+            <div class="col-lg-6 col-md-6">
+              <img style="border-radius: 30px" class="second-img" src="https://photos-5.dropbox.com/t/2/AAAvrRkvQxxtgDAFkV50j2Kc4Tfwcq_AK7HUBCmC_6YdTw/12/393123092/jpeg/32x32/1/_/1/2/pexels-photo-277322.jpeg/ENqWkJEDGJoPIAIoAg/SJQK3ct2tRfQ7IaGUtsvteY6rVtn2ZZnFDDPI6WFdc8?size=32x32&size_mode=5"
+                alt="" />
+            </div>
+            <div class="col-lg-6 col-md-6">
+              <h1>Lorum Ipsum</h1>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              <div class="row">
+                <div class="col-lg-12 col-md-12">
+                  <a href="{{ url('gallery')}}" target="_blank"><div class="btn btn-primary" style="background-color: #16511f;padding:2em; width: 30%; border-radius:25px;margin-top:2em;">Gallery</div></a>
+                </div>
+              </div>
+          </div>
+
         </div>
+
+      </div>
     </section>
 
     <!-- Contact Section -->
 
 
-    <section id="contact" class="contact-section">
+    <!-- <section id="contact" class="contact-section">
       <div class="container">
 
-    </section>
+    </section> -->
+<footer>
+  <div class="container footer">
+    <div class="row">
+      <div class="col-lg-4 col-md-4 col-xs-4">
+        <span class="copyright">Copyright &copy; Bernalise</span>
+      </div>
+      <div class="col-lg-4 col-md-4"></div>
+      <div class="col-lg-4 col-md-4">
+        <ul class="list-inline quicklinks text-right">
+          <li><a href="#">Privacy Policy/Terms of Use</a></li>
+          <li><a href="#">Attribution</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>

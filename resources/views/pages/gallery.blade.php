@@ -38,11 +38,15 @@
 
 
 <div class="container" style="padding-top:150px;">
+  <div class="row text-align">
+    <div class="col-lg-12 col-md-12 col-xs-12 title " style="color:black;">
+      <h1>Gallery</h1>
+    </div>
+  </div>
 
   <div class="row first">
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
       <div class="first-img" data-toggle="modal" data-target="#myModal1" alt="" style="background-image: url(https://photos-5.dropbox.com/t/2/AAAvrRkvQxxtgDAFkV50j2Kc4Tfwcq_AK7HUBCmC_6YdTw/12/393123092/jpeg/32x32/1/_/1/2/pexels-photo-277322.jpeg/ENqWkJEDGJoPIAIoAg/SJQK3ct2tRfQ7IaGUtsvteY6rVtn2ZZnFDDPI6WFdc8?size=32x32&size_mode=5;"></div>
-      <div class="overlay">THIS IS OVERLAY</div>
       <div class="modal fade" id="myModal1" role="dialog">
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
