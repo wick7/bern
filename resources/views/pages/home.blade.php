@@ -32,7 +32,7 @@
             <div class="row">
                 <div class="col-lg-12" style="background-color: ; margin-top:-9em margin-bottom: 3em;">
                     <h1>About<br/>
-                      <small>/əˈbout/</small>
+                      <small>\əˈbout\</small>
                       <hr align="center" width="10%" style="border-top: 3px solid #158429;">
                     </br/></h1>
                 </div>
@@ -43,7 +43,7 @@
               <div class="col-lg-4 col-md-4 col-xs-12">
                 <img style="margin: 0 auto 19px; height: 9rem; width: 9rem;" src="{{asset('/images/home.svg')}}">
                 <h3>More Than A House</h3>
-                <p>"Bernalese" is a retail concept in progress which builds upon the electic notion that many aspects of collecting and acquiring are melded together to create a home.</p></div>
+                <p>"Bernalese" is a retail concept in progress which builds upon the eclectic notion that many aspects of collecting and acquiring are melded together to create a home.</p></div>
               <div class="col-lg-4 col-md-4 col-xs-12">
                 <img style="margin: 0 auto 19px; height: 9rem; width: 9rem;" src="{{asset('/images/tools.svg')}}">
                 <h3>In Development</h3>
@@ -51,7 +51,7 @@
               <div class="col-lg-4 col-md-4 col-xs-12">
                 <img style="margin: 0 auto 19px; height: 9rem; width: 9rem;" src="{{asset('/images/cart.svg')}}">
                 <h3>To Hold You Over</h3>
-                <p>A limited assortment of specific items will be availble for purchase via <a href="http://www.ebay.com/usr/bernalese_sf" target="_blank">eBay</a>. Our initial on-line offering is a small collection of World Craft items sourced from Southeast Asia.</p></div>
+                <p>A curated assortment of vintage and world-craft items is available for purchase via <a href="http://www.ebay.com/usr/bernalese_sf" target="_blank">eBay</a>. A limited on-line offering at this website will be coming soon.</p></div>
             </div>
         </div>
     </section>
@@ -73,7 +73,7 @@
           <div class="row">
           <div class="col-lg-12" style="background-color: ; margin-top:-9em margin-bottom: 3em;">
               <h1>Antiques<br/>
-                <small>/anˈtēk/</small>
+                <small>\anˈtēk\</small>
                 <hr align="center" width="10%" style="border-top: 3px solid #158429;">
               </br/></h1>
               </div>
@@ -101,15 +101,22 @@
     <!-- Contact Section -->
 
 
-    <!-- <section id="contact" class="contact-section">
+    <section id="homeware" class="homeware-section">
       <div class="container">
-
-    </section> -->
+        <div class="row">
+        <div class="col-lg-12" style="background-color: ; margin-top:-9em margin-bottom: 3em;">
+            <h1>Homeware<br/>
+              <small>\ˈhəʊmwɛə\</small>
+              <hr align="center" width="10%" style="border-top: 3px solid #158429;">
+            </br/></h1>
+            </div>
+        </div>
+    </section>
 <footer>
   <div class="container footer">
     <div class="row">
       <div class="col-lg-4 col-md-4 col-xs-4">
-        <span class="copyright">Copyright &copy; Bernalise</span>
+        <span class="copyright">Copyright &copy; Bernalese</span>
       </div>
       <div class="col-lg-4 col-md-4"></div>
       <div class="col-lg-4 col-md-4">

@@ -16,7 +16,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="{{ url('/')}}" style="color: white;font-size:2.8rem;">/bərnallēs/</a>
+            <a class="navbar-brand page-scroll" href="{{ url('/')}}" style="color: white;font-size:2.8rem;">\bərnallēz\</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -27,7 +27,7 @@
                     <a class="page-scroll" href="#page-top"></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{ url('gallery')}}" style="color: white;font-size:1.7rem;">Gallery</a>
+                    <a class="page-scroll" href="{{ url('gallery')}}" style="color: white;font-size:1.7rem;">Just Great Stuff</a>
                 </li>
             </ul>
         </div>
@@ -40,7 +40,7 @@
 <div class="container" style="padding-top:150px;">
   <div class="row text-align">
     <div class="col-lg-12 col-md-12 col-xs-12 title " style="color:black;">
-      <h1>Gallery</h1>
+      <h1>Just Great Stuff!</h1>
     </div>
   </div>
 
