@@ -24,9 +24,7 @@
                 <li>
                     <a class="page-scroll" href="#antiques" style="color: white;font-size:1.7rem;">Antiques</a>
                 </li>
-                <li>
-                    <a class="page-scroll" href="#contact" style="color: white;font-size:1.7rem;">Contact</a>
-                </li>
+                
                 <li>
                     <a class="page-scroll" href="{{ url('gallery')}}" style="color: white;font-size:1.7rem;">Gallery</a>
                 </li>
