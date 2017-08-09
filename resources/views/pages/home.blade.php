@@ -71,7 +71,7 @@
     <section id="antiques" class="antiques-section">
         <div class="container">
           <div class="row">
-          <div class="col-lg-12" style="background-color: ; margin-top:-9em margin-bottom: 3em;">
+          <div class="col-lg-12" style="margin-bottom: 3em;">
               <h1>Antiques<br/>
                 <small>\anˈtēk\</small>
                 <hr align="center" width="10%" style="border-top: 3px solid #158429;">
@@ -88,7 +88,7 @@
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               <div class="row">
                 <div class="col-lg-12 col-md-12">
-                  <a href="{{ url('gallery')}}" target="_blank"><div class="btn btn-primary" style="background-color: #16511f;padding:2em; width: 30%; border-radius:25px;margin-top:2em;">Gallery</div></a>
+                  <a href="{{ url('gallery')}}" target="_blank"><div class="btn btn-primary" style="background-color: #16511f;padding:2em; width: 30%; border-radius:25px;margin-top:2em;">Great Stuff</div></a>
                 </div>
               </div>
           </div>
@@ -99,35 +99,37 @@
     </section>
 
     <!-- Contact Section -->
-
-
     <section id="homeware" class="homeware-section">
-      <div class="container">
-        <div class="row">
-        <div class="col-lg-12" style="background-color: ; margin-top:-9em margin-bottom: 3em;">
-            <h1>Homeware<br/>
-              <small>\ˈhəʊmwɛə\</small>
-              <hr align="center" width="10%" style="border-top: 3px solid #158429;">
-            </br/></h1>
-            </div>
-        </div>
-        <div class="row" style="margin-bottom: 4em;">
-          <div class="col-lg-6 col-md-6">
-            <img style="border-radius: 30px" class="second-img" src="https://photos-5.dropbox.com/t/2/AAAvrRkvQxxtgDAFkV50j2Kc4Tfwcq_AK7HUBCmC_6YdTw/12/393123092/jpeg/32x32/1/_/1/2/pexels-photo-277322.jpeg/ENqWkJEDGJoPIAIoAg/SJQK3ct2tRfQ7IaGUtsvteY6rVtn2ZZnFDDPI6WFdc8?size=32x32&size_mode=5"
-              alt="" />
-          </div>
-          <div class="col-lg-6 col-md-6">
-            <h1>Lorum Ipsum</h1>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            <div class="row">
-              <div class="col-lg-12 col-md-12">
-                <a href="{{ url('gallery')}}" target="_blank"><div class="btn btn-primary" style="background-color: #16511f;padding:2em; width: 30%; border-radius:25px;margin-top:2em;">Gallery</div></a>
+        <div class="container">
+          <div class="row">
+          <div class="col-lg-12" style="background-color: ; margin-top:-5em; margin-bottom: ;">
+              <h1>Homeware<br/>
+                <small>\ˈhəʊmwɛə\</small>
+                <hr align="center" width="10%" style="border-top: 3px solid #158429;">
+              </br/></h1>
               </div>
+          </div>
+          <div class="row" style="margin-bottom: 4em;">
+            <div class="col-lg-6 col-md-6">
+              <img style="border-radius: 30px" class="second-img" src="https://photos-5.dropbox.com/t/2/AAAvrRkvQxxtgDAFkV50j2Kc4Tfwcq_AK7HUBCmC_6YdTw/12/393123092/jpeg/32x32/1/_/1/2/pexels-photo-277322.jpeg/ENqWkJEDGJoPIAIoAg/SJQK3ct2tRfQ7IaGUtsvteY6rVtn2ZZnFDDPI6WFdc8?size=32x32&size_mode=5"
+                alt="" />
             </div>
+            <div class="col-lg-6 col-md-6">
+              <h1>Lorum Ipsum</h1>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              <div class="row">
+                <div class="col-lg-12 col-md-12">
+                  <a href="{{ url('gallery')}}" target="_blank"><div class="btn btn-primary" style="background-color: #16511f;padding:2em; width: 30%; border-radius:25px;margin-top:2em;">Great Stuff</div></a>
+                </div>
+              </div>
+          </div>
+
         </div>
 
       </div>
     </section>
+
+
 <footer>
   <div class="container footer">
     <div class="row">
@@ -158,3 +160,33 @@
 </body>
 
 </html>
+
+
+<!-- <section id="homeware" class="homeware-section">
+  <div class="container">
+    <div class="row">
+    <div class="col-lg-12" style="background-color: ; margin-top:-9em margin-bottom: 3em;">
+        <h1>Homeware<br/>
+          <small>\ˈhəʊmwɛə\</small>
+          <hr align="center" width="10%" style="border-top: 3px solid #158429;">
+        </br/></h1>
+        </div>
+    </div>
+    <div class="row" style="margin-bottom: 8em;">
+      <div class="col-lg-6 col-md-6">
+        <img style="border-radius: 30px" class="second-img" src="https://photos-5.dropbox.com/t/2/AAAvrRkvQxxtgDAFkV50j2Kc4Tfwcq_AK7HUBCmC_6YdTw/12/393123092/jpeg/32x32/1/_/1/2/pexels-photo-277322.jpeg/ENqWkJEDGJoPIAIoAg/SJQK3ct2tRfQ7IaGUtsvteY6rVtn2ZZnFDDPI6WFdc8?size=32x32&size_mode=5"
+          alt="" />
+      </div>
+      <div class="col-lg-6 col-md-6">
+        <h1>Lorum Ipsum</h1>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        <div class="row">
+          <div class="col-lg-12 col-md-12">
+            <a href="{{ url('gallery')}}" target="_blank"><div class="btn btn-primary" style="background-color: #16511f;padding:2em; width: 30%; border-radius:25px;margin-top:2em;">Gallery</div></a>
+          </div>
+        </div>
+    </div>
+
+  </div>
+</div>
+</section> -->

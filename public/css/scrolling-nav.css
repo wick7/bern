@@ -101,12 +101,6 @@ of those sections to manage the look and feel of the site. */
   padding-bottom: 100px;
 }
 
-.antiques-section {
-    height: auto;
-    padding-top: 100px;
-    text-align: center;
-    background: #fff;
-}
 
 .ebay-section {
   height: 30%;
@@ -115,6 +109,13 @@ of those sections to manage the look and feel of the site. */
   text-align: center;
   background: #434443;
   color: white;
+}
+
+.antiques-section {
+    height: auto;
+    padding-top: 100px;
+    text-align: center;
+    background: #fff;
 }
 
 .homeware-section {
