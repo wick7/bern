@@ -51,7 +51,7 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background-image: url(https://images.pexels.com/photos/87325/pexels-photo-87325.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+    background-image: url("/images/front-bg.jpeg");
     background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
