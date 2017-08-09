@@ -111,6 +111,22 @@
             </br/></h1>
             </div>
         </div>
+        <div class="row" style="margin-bottom: 4em;">
+          <div class="col-lg-6 col-md-6">
+            <img style="border-radius: 30px" class="second-img" src="https://photos-5.dropbox.com/t/2/AAAvrRkvQxxtgDAFkV50j2Kc4Tfwcq_AK7HUBCmC_6YdTw/12/393123092/jpeg/32x32/1/_/1/2/pexels-photo-277322.jpeg/ENqWkJEDGJoPIAIoAg/SJQK3ct2tRfQ7IaGUtsvteY6rVtn2ZZnFDDPI6WFdc8?size=32x32&size_mode=5"
+              alt="" />
+          </div>
+          <div class="col-lg-6 col-md-6">
+            <h1>Lorum Ipsum</h1>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            <div class="row">
+              <div class="col-lg-12 col-md-12">
+                <a href="{{ url('gallery')}}" target="_blank"><div class="btn btn-primary" style="background-color: #16511f;padding:2em; width: 30%; border-radius:25px;margin-top:2em;">Gallery</div></a>
+              </div>
+            </div>
+        </div>
+
+      </div>
     </section>
 <footer>
   <div class="container footer">
