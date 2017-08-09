@@ -15,7 +15,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 title">
-                  <h1>Bernalise</h1>
+                  <h1>Bernalese</h1>
                   <h4>...do you speak it?</h4>
                   <p></p>
                   <p>Antiques, Contemporary Homeware & Just Great Stuff!</p>
