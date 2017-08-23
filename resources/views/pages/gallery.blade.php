@@ -40,7 +40,7 @@
 <div class="container" style="padding-top:150px;">
   <div class="row text-align">
     <div class="col-lg-12 col-md-12 col-xs-12 title " style="color:black;">
-      <h1>Just Great Stuff!</h1>
+      <h1>Just Great Stuff</h1>
     </div>
   </div>
 

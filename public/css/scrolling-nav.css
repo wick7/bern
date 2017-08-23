@@ -61,6 +61,7 @@ of those sections to manage the look and feel of the site. */
   outline:none;
 }
 
+
 /*.btn-custom {
   padding: 100% 100%;
   text-align: center;
@@ -118,11 +119,64 @@ of those sections to manage the look and feel of the site. */
     background: #fff;
 }
 
-.homeware-section {
+.antiques-section p {
+  font-size: 2rem;
+  font-family: 'Playfair Display', serif;
+}
+
+/*.homeware-section {
     height: 100%;
     padding-top: 100px;
     text-align: center;
     background: #eee;
+}*/
+
+.homeware-section {
+    height: auto;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: #eee;
+}
+
+.homeware-section p {
+  font-size: 2rem;
+  font-family: 'Playfair Display', serif;
+}
+
+.panel-body {
+  position: relative;
+
+}
+
+.overlays {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: auto;
+  opacity: 0;
+  transition: .5s ease;
+  background: rgba(255, 255, 255, .75);
+}
+
+.overlays button {
+  margin: 0 auto;
+  margin-top: 1em;
+  background-color: #16511f;
+  color: white;
+}
+
+
+.overlays h2 {
+  margin: 0 auto;
+  margin-top: 20%;
+}
+
+.panel-body:hover .overlays {
+  opacity: 1;
 }
 
 .footer {

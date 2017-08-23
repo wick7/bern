@@ -19,16 +19,16 @@
                     <a class="page-scroll" href="#page-top"></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#about" style="color: white;font-size:1.7rem;">About</a>
+                    <a class="page-scroll js-scroll-trigger" href="#about" style="color: white;font-size:1.7rem;">About</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#antiques" style="color: white;font-size:1.7rem;">Antiques</a>
+                    <a class="page-scroll js-scroll-trigger" href="#antiques" style="color: white;font-size:1.7rem;">Antiques</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#homeware" style="color: white;font-size:1.7rem;">Homeware</a>
+                    <a class="page-scroll js-scroll-trigger" href="#homeware" style="color: white;font-size:1.7rem;">Homeware</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{ url('gallery')}}" style="color: white;font-size:1.7rem;">Just Great Stuff!</a>
+                    <a class="page-scroll js-scroll-trigger" href="{{ url('gallery')}}" style="color: white;font-size:1.7rem;">Just Great Stuff</a>
                 </li>
             </ul>
         </div>
