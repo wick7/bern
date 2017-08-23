@@ -8,7 +8,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="https://{{ url('/')}}" style="color: white;font-size:2.8rem;">\bərnallēz\</a>
+            <a class="navbar-brand page-scroll" href="{{ url('/')}}" style="color: white;font-size:2.8rem;">\bərnallēz\</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->

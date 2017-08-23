@@ -80,14 +80,13 @@
           </div>
           <div class="row" style="margin-bottom: 4em;">
             <div class="col-lg-6 col-md-6">
-              <img style="border-radius: 30px" class="second-img" src="https://photos-5.dropbox.com/t/2/AAAvrRkvQxxtgDAFkV50j2Kc4Tfwcq_AK7HUBCmC_6YdTw/12/393123092/jpeg/32x32/1/_/1/2/pexels-photo-277322.jpeg/ENqWkJEDGJoPIAIoAg/SJQK3ct2tRfQ7IaGUtsvteY6rVtn2ZZnFDDPI6WFdc8?size=32x32&size_mode=5"
-                alt="" />
+              <img style="border-radius: 30px" class="second-img" src="/images/tea.jpeg" alt="" />
             </div>
-            <div class="col-lg-6 col-md-6">
+            <div class="col-lg-6 col-md-6" style="margin-top: 1em;">
               <p>Antique...of or belonging to the past.  Vintage, collectible, the ultimate recyclable.  Whether it is the cookie jar that rested on your grandmother's kitchen counter; the mid-century coffee table; or the Victorian candlestick; these items are what make a house a home.  They speak of personality, history and aesthetic, combining to give your home that special character.</p>
               <div class="row">
                 <div class="col-lg-12 col-md-12">
-                  <a href="{{ url('gallery')}}" target="_blank"><div class="btn btn-primary" style="background-color: #16511f;padding:2em; width: 30%; border-radius:25px;margin-top:2em;font-size:1.8rem;">Great Stuff</div></a>
+                  <a href="{{ url('gallery')}}" target="_blank"><div class="btn btn-primary" style="background-color: #16511f;padding:2em; width: 10em; border-radius:25px;margin-top:2em;font-size:18px;">Great Stuff</div></a>
                 </div>
               </div>
           </div>
