@@ -15,12 +15,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 title">
-                  <h1>Bernalese<sup style="vertical-align: top; position: relative; top: 1.4em;  font-size: 2.5rem; background-color:;">&trade;</sup></h1></span>
+                  <h1>Bernalese<sup style=" width:.3em;vertical-align: top; position: relative; top: 1.4em; font-size: 2.5rem; background-color:;">&trade;</sup></h1>
                   <h4>...do you speak it?</h4>
-                  <p></p>
+                  <p>Character For Your Home</p>
                   <p>Antiques, Contemporary Homeware & Just Great Stuff</p>
                   <!-- <div class="btn btn-custom page-scroll" href="#about">Learn More</div> -->
                   <a class="page-scroll" href="#about"><div class="btn btn-primary"  style="background-color: #16511f;padding-top:1.2em; padding-bottom:1.2em; padding-right:3em;padding-left:3em; width: auto; border-radius:25px;margin-top:2em; font-size:18px;">Learn More</div></a>
+
                 </div>
             </div>
         </div>
@@ -80,19 +81,12 @@
           </div>
           <div class="row" style="margin-bottom: 4em;">
             <div class="col-lg-6 col-md-6">
-              <img style="border-radius: 30px" class="second-img" src="/images/tea.jpeg" alt="" />
+              <p>Antique...of or belonging to the past.  Vintage, collectible, the ultimate recyclable.  Whether it is the cookie jar that rested on your grandmother's kitchen counter; the mid-century coffee table; or the Victorian candlestick; these items are what make a house a home.  They speak of personality, history and aesthetic, combining to give your home that special character.</p>
             </div>
             <div class="col-lg-6 col-md-6" style="margin-top: 1em;">
-              <p>Antique...of or belonging to the past.  Vintage, collectible, the ultimate recyclable.  Whether it is the cookie jar that rested on your grandmother's kitchen counter; the mid-century coffee table; or the Victorian candlestick; these items are what make a house a home.  They speak of personality, history and aesthetic, combining to give your home that special character.</p>
-              <div class="row">
-                <div class="col-lg-12 col-md-12">
-                  <a href="{{ url('gallery')}}" target="_blank"><div class="btn btn-primary" style="background-color: #16511f;padding:2em; width: 10em; border-radius:25px;margin-top:2em;font-size:18px;">Great Stuff</div></a>
-                </div>
-              </div>
+              <img style="border-radius: 30px" class="second-img" src="/images/tea.jpeg" alt="" />
           </div>
-
         </div>
-
       </div>
     </section>
 
@@ -122,7 +116,6 @@
                   <img class="homeware_img" src="/images/lamp.jpeg" />
                   <div class="overlays">
                     <h2>Sed ut perspiciatis</h2>
-                    <button class="btn">See More</button>
                   </div>
                 </div>
               </div>
@@ -133,7 +126,6 @@
                   <img class="homeware_img" src="/images/plate.jpeg" />
                   <div class="overlays">
                     <h2>Ut enim ad</h2>
-                    <button class="btn">See More</button>
                   </div>
                 </div>
               </div>
@@ -144,7 +136,6 @@
                   <img class="homeware_img" src="/images/candle.jpeg" />
                   <div class="overlays">
                     <h2>At vero eos</h2>
-                    <button class="btn">See More</button>
                   </div>
                 </div>
               </div>
@@ -157,7 +148,6 @@
                 <img class="homeware_img" src="/images/cups.jpeg" />
                 <div class="overlays">
                   <h2>Lorum Ipsum dolor</h2>
-                  <button class="btn">See More</button>
                 </div>
 
               </div>
@@ -168,8 +158,7 @@
               <div class="panel-body">
                 <img class="homeware_img" src="/images/chess.jpeg" />
                 <div class="overlays">
-                  <h2>Let There Be Light</h2>
-                  <button class="btn">See More</button>
+                  <h2>Lorum Ipsum</h2>
                 </div>
               </div>
             </div>
@@ -179,8 +168,7 @@
               <div class="panel-body">
                 <img class="homeware_img" src="/images/fork.jpeg" />
                 <div class="overlays">
-                  <h2>Let There Be Light</h2>
-                  <button class="btn">See More</button>
+                  <h2>Lorum Ipsum</h2>
                 </div>
               </div>
             </div>
@@ -189,23 +177,18 @@
       </div>
     </section>
 
+    <section id="greatStuff" class="greatStuff-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12 text-center">
+            <a href="{{ url('gallery')}}" target="_blank"><div class="btn btn-primary" style="background-color: #16511f;padding:2em; width: 10em; border-radius:25px;margin-top:2em; margin-bottom:2em;font-size:18px;">Great Stuff</div></a>
+          </div>
+        </div>
+      </div>
+    </section>
 
-<footer>
-  <div class="container footer">
-    <div class="row">
-      <div class="col-lg-4 col-md-4 col-xs-4">
-        <span class="copyright">Bernalese&trade;</span>
-      </div>
-      <div class="col-lg-4 col-md-4"></div>
-      <div class="col-lg-4 col-md-4">
-        <ul class="list-inline quicklinks text-right">
-          <li><a href="#">Privacy Policy/Terms of Use</a></li>
-          <li><a href="#">Attribution</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</footer>
+@include('partials._footer')
+
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>

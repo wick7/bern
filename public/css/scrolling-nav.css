@@ -48,10 +48,10 @@ The padding is very important to make sure the scrollspy picks up the right area
 of those sections to manage the look and feel of the site. */
 
 .intro-section {
-    height: 100%;
+    height: 100vh;
     padding-top: 150px;
     text-align: center;
-    background-image: url("/images/front-bg.jpeg");
+    background-image: url("/images/home.jpeg");
     background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -73,6 +73,7 @@ of those sections to manage the look and feel of the site. */
 .title {
   color: white;
   font-family: 'Playfair Display', serif;
+  background-color: ;
 }
 
 .title h1 {font-size: 8rem;}
@@ -103,18 +104,18 @@ of those sections to manage the look and feel of the site. */
 }
 
 
-.ebay-section {
+/*.ebay-section {
   height: 30%;
   max-height: 100%;
   padding-top: 30px;
   text-align: center;
   background: #434443;
   color: white;
-}
+}*/
 
 .antiques-section {
     height: auto;
-    padding-top: 100px;
+    padding-top: 50px;
     text-align: center;
     background: #fff;
 }
@@ -133,7 +134,7 @@ of those sections to manage the look and feel of the site. */
 
 .homeware-section {
     height: auto;
-    padding-top: 100px;
+    padding-top: 120px;
     padding-bottom: 50px;
     text-align: center;
     background: #eee;
@@ -180,14 +181,14 @@ of those sections to manage the look and feel of the site. */
 }
 
 .footer {
-  background-color:gray;
+  background-color:black;
   height: auto;
   width: 100%;
   padding-top:1em;
 }
 
 .footer a {
-  color:black;
+  color:white;
 }
 
 .line {
@@ -213,6 +214,19 @@ of those sections to manage the look and feel of the site. */
 
 .carousel-inner>.item>img, .carousel-inner>.item>a>img {
     width: 100%;
+}
+
+
+.greatStuff-section {
+    height: auto;
+    padding-top: 20px;
+    text-align: center;
+    background: #fff;
+    padding-bottom: 20px;
+    background-image: url("/images/gs_bg.jpeg");
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 
 /*GALLERY */
