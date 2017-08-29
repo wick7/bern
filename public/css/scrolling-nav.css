@@ -93,6 +93,12 @@ of those sections to manage the look and feel of the site. */
   font-family: 'Playfair Display', serif;
 }
 
+.about-icon {
+  margin: 0 auto 19px;
+   height: 9rem;
+   width: 9rem;
+}
+
 .ebay-section h2 {
   font-family: 'Playfair Display', serif;
   text-decoration: none;
@@ -231,11 +237,11 @@ of those sections to manage the look and feel of the site. */
 
 /*GALLERY */
 
-*,
+/***,
 *::before,
 *::after {
   box-sizing: border-box;
-}
+}*/
 
 img {
   display: block;
@@ -276,7 +282,7 @@ img {
   width: 100%;
 }
 
-.gallery {
+/*.gallery {
   position: relative;
   z-index: 2;
   padding: 10px;
@@ -682,4 +688,4 @@ img {
     -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -300, -225, 0, 1);
             transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -300, -225, 0, 1);
   }
-}
+}*/

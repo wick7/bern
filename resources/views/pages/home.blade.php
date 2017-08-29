@@ -42,15 +42,15 @@
 
             <div class="row about-info" style="margin-top: 3%;">
               <div class="col-lg-4 col-md-4 col-xs-12">
-                <img style="margin: 0 auto 19px; height: 9rem; width: 9rem;" src="{{asset('/images/home.svg')}}">
+                <img class="about-icon" src="{{asset('/images/home.svg')}}">
                 <h3>More Than A House</h3>
                 <p>"Bernalese" is a retail concept in progress which builds upon the eclectic notion that many aspects of collecting and acquiring are melded together to create a home.</p></div>
               <div class="col-lg-4 col-md-4 col-xs-12">
-                <img style="margin: 0 auto 19px; height: 9rem; width: 9rem;" src="{{asset('/images/tools.svg')}}">
+                <img class="about-icon" src="{{asset('/images/tools.svg')}}">
                 <h3>In Development</h3>
                 <p>Our flag ship retail store is forthcoming in San Francisco, California - stay tuned!</p></div>
               <div class="col-lg-4 col-md-4 col-xs-12">
-                <img style="margin: 0 auto 19px; height: 9rem; width: 9rem;" src="{{asset('/images/cart.svg')}}">
+                <img class="about-icon" src="{{asset('/images/cart.svg')}}">
                 <h3>To Hold You Over</h3>
                 <p>A curated assortment of vintage and world-craft items is available for purchase via <a href="http://www.ebay.com/usr/bernalese_sf" target="_blank">eBay</a>. A limited on-line offering at this website will be coming soon.</p></div>
             </div>
