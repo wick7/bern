@@ -23,6 +23,10 @@ $('.js-scroll-trigger').click(function() {
     $('.navbar-collapse').collapse('hide');
   });
 
+// $('.menu').click(function() {
+//     $('.navbar-collapse').collapse().toggle();
+//   });
+
 
 // GALLERY
 

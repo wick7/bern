@@ -74,7 +74,7 @@
           <div class="row">
           <div class="col-lg-12" style="margin-bottom: 3em;">
               <h1>Antiques<br/>
-                <small>\anˈtēk\</small>
+                <small>\anˈtēks\</small>
                 <hr align="center" width="10%" style="border-top: 3px solid #158429;">
               </br/></h1>
               </div>
