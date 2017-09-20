@@ -19,13 +19,29 @@ $(function() {
     });
 });
 
-$('.js-scroll-trigger').click(function() {
-    $('.navbar-collapse').collapse('hide');
-  });
+// $(document).on('click','.navbar-collapse.in',function(e) {
+//     if( $(e.target).is('a') && $(e.target).attr('class') != 'dropdown-toggle' ) {
+//         $(this).collapse('hide');
+//     }
+// });
 
+// $('.js-scroll-trigger').click(function() {
+//     $('.navbar-collapse').collapse('hide');
+//   });
+//
+//
+//
 // $('.menu').click(function() {
 //     $('.navbar-collapse').collapse().toggle();
 //   });
+
+// $(".js-scroll-trigger").click(function() {
+//   $('.navbar-collaspe').toggle(function() {
+//     $(this).show(1000);
+//   }, function() {
+//     $(this).hide(1000);
+//   });
+// });
 
 
 // GALLERY

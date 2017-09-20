@@ -41,6 +41,7 @@ background: linear-gradient(to left, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Fi
         border: 1px solid #158429;
 
     }
+
 }
 
 /* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
@@ -51,7 +52,7 @@ of those sections to manage the look and feel of the site. */
     height: 100vh;
     padding-top: 150px;
     text-align: center;
-    background-image: url("/images/home.jpeg");
+    background-image: url("/images/new_bg.png");
     background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -150,6 +151,8 @@ of those sections to manage the look and feel of the site. */
   font-size: 2rem;
   font-family: 'Playfair Display', serif;
 }
+
+
 
 .panel-body {
   position: relative;

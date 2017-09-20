@@ -17,7 +17,7 @@
                 <div class="col-lg-12 title">
                   <h1>Bernalese<sup style=" width:.3em;vertical-align: top; position: relative; top: 1.4em; font-size: 2.5rem; background-color:;">&trade;</sup></h1>
                   <h4>...do you speak it?</h4>
-                  <p>Character For Your Home</p>
+                  <!-- <p>Character For Your Home</p> -->
                   <p>Antiques, Contemporary Homeware & Just Great Stuff</p>
                   <!-- <div class="btn btn-custom page-scroll" href="#about">Learn More</div> -->
                   <a class="page-scroll" href="#about"><div class="btn btn-primary"  style="background-color: #16511f;padding-top:1.2em; padding-bottom:1.2em; padding-right:3em;padding-left:3em; width: auto; border-radius:25px;margin-top:2em; font-size:18px;">Learn More</div></a>
@@ -48,7 +48,7 @@
               <div class="col-lg-4 col-md-4 col-xs-12">
                 <img class="about-icon" src="{{asset('/images/tools.svg')}}">
                 <h3>In Development</h3>
-                <p>Our flag ship retail store is forthcoming in San Francisco, California - stay tuned!</p></div>
+                <p>Our flag ship retail store is forthcoming in San Francisco, California - stay tuned! A vast array of antique and contemporary items will be available exclusively in-store for purchase.</p></div>
               <div class="col-lg-4 col-md-4 col-xs-12">
                 <img class="about-icon" src="{{asset('/images/cart.svg')}}">
                 <h3>To Hold You Over</h3>
@@ -84,7 +84,7 @@
               <p>Antique...of or belonging to the past.  Vintage, collectible, the ultimate recyclable.  Whether it is the cookie jar that rested on your grandmother's kitchen counter; the mid-century coffee table; or the Victorian candlestick; these items are what make a house a home.  They speak of personality, history and aesthetic, combining to give your home that special character.</p>
             </div>
             <div class="col-lg-6 col-md-6" style="margin-top: 1em;">
-              <img style="border-radius: 30px" class="second-img" src="/images/tea.jpeg" alt="" />
+              <img style="border-radius: 30px" class="second-img" src="/images/a1.png" alt="" />
           </div>
         </div>
       </div>
@@ -113,7 +113,7 @@
             <div class="col-md-4">
               <div class="panel panel-default">
                 <div class="panel-body">
-                  <img class="homeware_img" src="/images/lamp.jpeg" />
+                  <img class="homeware_img" src="/images/h1.png" />
                   <div class="overlays">
                     <h2>Sed ut perspiciatis</h2>
                   </div>
@@ -123,7 +123,7 @@
             <div class="col-md-4">
               <div class="panel panel-default">
                 <div class="panel-body">
-                  <img class="homeware_img" src="/images/plate.jpeg" />
+                  <img class="homeware_img" src="/images/h2.png" />
                   <div class="overlays">
                     <h2>Ut enim ad</h2>
                   </div>
@@ -133,7 +133,7 @@
             <div class="col-md-4">
               <div class="panel panel-default">
                 <div class="panel-body">
-                  <img class="homeware_img" src="/images/candle.jpeg" />
+                  <img class="homeware_img" src="/images/h3.png" />
                   <div class="overlays">
                     <h2>At vero eos</h2>
                   </div>
@@ -145,7 +145,7 @@
           <div class="col-md-4">
             <div class="panel panel-default">
               <div class="panel-body">
-                <img class="homeware_img" src="/images/cups.jpeg" />
+                <img class="homeware_img" src="/images/h4.png" />
                 <div class="overlays">
                   <h2>Lorum Ipsum dolor</h2>
                 </div>
@@ -156,7 +156,7 @@
           <div class="col-md-4">
             <div class="panel panel-default">
               <div class="panel-body">
-                <img class="homeware_img" src="/images/chess.jpeg" />
+                <img class="homeware_img" src="/images/h5_resized.jpg" />
                 <div class="overlays">
                   <h2>Lorum Ipsum</h2>
                 </div>
@@ -166,7 +166,7 @@
           <div class="col-md-4">
             <div class="panel panel-default">
               <div class="panel-body">
-                <img class="homeware_img" src="/images/fork.jpeg" />
+                <img class="homeware_img" src="/images/h6.jpg" />
                 <div class="overlays">
                   <h2>Lorum Ipsum</h2>
                 </div>
