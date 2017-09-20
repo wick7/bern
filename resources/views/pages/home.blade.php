@@ -113,7 +113,7 @@
             <div class="col-md-4">
               <div class="panel panel-default">
                 <div class="panel-body">
-                  <img class="homeware_img" src="/images/h1.png" />
+                  <img class="homeware_img" src="/images/front.jpeg" />
                   <div class="overlays">
                     <h2>Sed ut perspiciatis</h2>
                   </div>
