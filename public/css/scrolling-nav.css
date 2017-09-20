@@ -52,7 +52,7 @@ of those sections to manage the look and feel of the site. */
     height: 100vh;
     padding-top: 150px;
     text-align: center;
-    background-image: url("/images/new_bg.png");
+    background-image: url("/../images/new_bg.png");
     background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
