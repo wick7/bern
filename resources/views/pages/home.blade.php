@@ -113,7 +113,7 @@
             <div class="col-md-4">
               <div class="panel panel-default">
                 <div class="panel-body">
-                  <img class="homeware_img" src="/images/front-bg.jpeg" />
+                  <img class="homeware_img" src="/images/h1.jpg" />
                   <div class="overlays">
                     <h2>Sed ut perspiciatis</h2>
                   </div>
@@ -123,7 +123,7 @@
             <div class="col-md-4">
               <div class="panel panel-default">
                 <div class="panel-body">
-                  <img class="homeware_img" src="/images/h2.png" />
+                  <img class="homeware_img" src="/images/h2.jpg" />
                   <div class="overlays">
                     <h2>Ut enim ad</h2>
                   </div>
@@ -133,7 +133,7 @@
             <div class="col-md-4">
               <div class="panel panel-default">
                 <div class="panel-body">
-                  <img class="homeware_img" src="/images/h3.png" />
+                  <img class="homeware_img" src="/images/h3.jpg" />
                   <div class="overlays">
                     <h2>At vero eos</h2>
                   </div>
@@ -145,7 +145,7 @@
           <div class="col-md-4">
             <div class="panel panel-default">
               <div class="panel-body">
-                <img class="homeware_img" src="/images/h4.png" />
+                <img class="homeware_img" src="/images/h4.jpg" />
                 <div class="overlays">
                   <h2>Lorum Ipsum dolor</h2>
                 </div>
