@@ -42,6 +42,18 @@ background: linear-gradient(to left, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Fi
 
     }
 
+    .antiques-section {
+        height: auto;
+        padding-top: 50px;
+        text-align: center;
+        background: #fff;
+        margin-bottom: 8em;
+    }
+
+    .antiques-section p {
+      margin-top: 7em;
+    }
+
 }
 
 /* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
@@ -125,11 +137,15 @@ of those sections to manage the look and feel of the site. */
     padding-top: 50px;
     text-align: center;
     background: #fff;
+    margin-bottom: 8em;
+    margin-left: .5em;
+    margin-right: .5em;
 }
 
 .antiques-section p {
   font-size: 2rem;
   font-family: 'Playfair Display', serif;
+  margin-bottom: 4em;
 }
 
 /*.homeware-section {
@@ -138,6 +154,19 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: #eee;
 }*/
+
+#myCarousel {
+  width: 100%;
+  margin-bottom: 2em;
+}
+
+.item h1 {
+  color: white;
+  position: absolute;
+  top: 5%;
+  left: 10%;
+  bottom:0;
+}
 
 .homeware-section {
     height: auto;

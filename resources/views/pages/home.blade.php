@@ -70,25 +70,82 @@
 
     <!-- Services Section -->
     <section id="antiques" class="antiques-section">
-        <div class="container">
+
           <div class="row">
-          <div class="col-lg-12" style="margin-bottom: 3em;">
+          <div class="col-lg-12">
               <h1>Antiques<br/>
                 <small>\anˈtēks\</small>
                 <hr align="center" width="10%" style="border-top: 3px solid #158429;">
               </br/></h1>
               </div>
           </div>
-          <div class="row" style="margin-bottom: 4em;">
+          <div class="row antique_text" style="margin-bottom: em;">
             <div class="col-lg-6 col-md-6">
               <p>Antique...of or belonging to the past.  Vintage, collectible, the ultimate recyclable.  Whether it is the cookie jar that rested on your grandmother's kitchen counter; the mid-century coffee table; or the Victorian candlestick; these items are what make a house a home.  They speak of personality, history and aesthetic, combining to give your home that special character.</p>
             </div>
-            <div class="col-lg-6 col-md-6" style="margin-top: 1em;">
-              <img style="border-radius: 30px" class="second-img" src="/images/a1.png" alt="" />
+            <div class="col-lg-6 col-md-6" style="">
+              <!-- <img style="border-radius: 30px" class="second-img" src="/images/a1.png" alt="" /> -->
+              <div id="myCarousel" class="carousel slide" data-ride="carousel" style="border-radius:25px;" >
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#myCarousel" data-slide-to="1"></li>
+                  <li data-target="#myCarousel" data-slide-to="2"></li>
+                  <li data-target="#myCarousel" data-slide-to="3"></li>
+                  <li data-target="#myCarousel" data-slide-to="4"></li>
+                  <li data-target="#myCarousel" data-slide-to="5"></li>
+                  <li data-target="#myCarousel" data-slide-to="6"></li>
+                </ol>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                  <div class="item active">
+                    <img src="{{asset('/images/a1.JPG')}}" alt="Candle">
+                    <h1>Description</h1>
+                  </div>
+
+                  <div class="item">
+                    <img src="{{asset('/images/a2.JPG')}}" alt="Cups">
+                    <h1>Description</h1>
+                  </div>
+
+                  <div class="item">
+                    <img src="{{asset('/images/a3.JPG')}}" alt="Chess">
+                    <h1>Description</h1>
+                  </div>
+                  <div class="item">
+                    <img src="{{asset('/images/a4.JPG')}}" alt="Candle">
+                    <h1>Description</h1>
+                  </div>
+
+                  <div class="item">
+                    <img src="{{asset('/images/a5.JPG')}}" alt="Cups">
+                    <h1>Description</h1>
+                  </div>
+
+                  <div class="item">
+                    <img src="{{asset('/images/a6.JPG')}}" alt="Chess">
+                    <h1>Description</h1>
+                  </div>
+
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                  <span class="glyphicon glyphicon-chevron-left"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                  <span class="glyphicon glyphicon-chevron-right"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
           </div>
         </div>
-      </div>
+
     </section>
+
+
 
 
 
@@ -113,7 +170,7 @@
             <div class="col-md-4">
               <div class="panel panel-default">
                 <div class="panel-body">
-                  <img class="homeware_img" src="/images/h1.jpg" />
+                  <img class="homeware_img" src="/images/h1.PNG" />
                   <div class="overlays">
                     <h2>Sed ut perspiciatis</h2>
                   </div>
