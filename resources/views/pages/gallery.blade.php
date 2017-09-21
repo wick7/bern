@@ -68,7 +68,7 @@
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <div class="first-img" data-toggle="modal" data-target="#myModal2" style="background-image: url({{asset('/images/g6.jpg')}})" alt="" ></div>
+      <div class="first-img" data-toggle="modal" data-target="#myModal2" style="background-image: url({{asset('/images/g6.JPG')}})" alt="" ></div>
       <div class="modal fade" id="myModal2" role="dialog">
         <div class="modal-dialog modal-lg">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
