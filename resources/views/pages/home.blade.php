@@ -15,7 +15,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 title">
-                  <h1>Bernalese<sup style=" width:.3em;vertical-align: top; position: relative; top: 1.4em; font-size: 2.5rem; background-color:;">&trade;</sup></h1>
+                  <!-- <sup style=" width:.3em;vertical-align: top; position: relative; top: 1.4em; font-size: 2.5rem; background-color:;">&trade;</sup> -->
+                  <h1>Bernalese</h1>
                   <h4>...do you speak it?</h4>
                   <!-- <p>Character For Your Home</p> -->
                   <p>Antiques, Contemporary Homeware & Just Great Stuff</p>
