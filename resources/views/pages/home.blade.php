@@ -102,31 +102,31 @@
                 <div class="carousel-inner">
                   <div class="item active">
                     <img src="{{asset('/images/a1.JPG')}}" alt="Candle">
-                    <h1>Description</h1>
+                    <h1>Vintage Kitchen</h1>
                   </div>
 
                   <div class="item">
                     <img src="{{asset('/images/a2.JPG')}}" alt="Cups">
-                    <h1>Description</h1>
+                    <h1>American Pottery</h1>
                   </div>
 
                   <div class="item">
                     <img src="{{asset('/images/a3.JPG')}}" alt="Chess">
-                    <h1>Description</h1>
+                    <h1>Household Decor</h1>
                   </div>
                   <div class="item">
                     <img src="{{asset('/images/a4.JPG')}}" alt="Candle">
-                    <h1>Description</h1>
+                    <h1>Antique Home</h1>
                   </div>
 
                   <div class="item">
                     <img src="{{asset('/images/a5.JPG')}}" alt="Cups">
-                    <h1>Description</h1>
+                    <h1>Small Collectibles</h1>
                   </div>
 
                   <div class="item">
                     <img src="{{asset('/images/a6.JPG')}}" alt="Chess">
-                    <h1>Description</h1>
+                    <h1 style="margin-left: 1em;">Decoratives</h1>
                   </div>
 
                 </div>
@@ -173,7 +173,7 @@
                 <div class="panel-body">
                   <img class="homeware_img" src="/images/h1.PNG" />
                   <div class="overlays">
-                    <h2>Sed ut perspiciatis</h2>
+                    <h2>Kitchen Utility</h2>
                   </div>
                 </div>
               </div>
@@ -183,7 +183,7 @@
                 <div class="panel-body">
                   <img class="homeware_img" src="/images/h2.jpg" />
                   <div class="overlays">
-                    <h2>Ut enim ad</h2>
+                    <h2>Dining Ware</h2>
                   </div>
                 </div>
               </div>
@@ -193,7 +193,7 @@
                 <div class="panel-body">
                   <img class="homeware_img" src="/images/h3.jpg" />
                   <div class="overlays">
-                    <h2>At vero eos</h2>
+                    <h2>Cooking & Baking</h2>
                   </div>
                 </div>
               </div>
@@ -205,18 +205,18 @@
               <div class="panel-body">
                 <img class="homeware_img" src="/images/h4.jpg" />
                 <div class="overlays">
-                  <h2>Lorum Ipsum dolor</h2>
+                  <h2>Decorative</h2>
                 </div>
 
               </div>
             </div>
           </div>
-          <div class="col-md-4">
+          <!-- <div class="col-md-4">
             <div class="panel panel-default">
               <div class="panel-body">
                 <img class="homeware_img" src="/images/h5_resized.jpg" />
                 <div class="overlays">
-                  <h2>Lorum Ipsum</h2>
+                  <h2>Serving</h2>
                 </div>
               </div>
             </div>
@@ -226,11 +226,11 @@
               <div class="panel-body">
                 <img class="homeware_img" src="/images/h6.JPG" />
                 <div class="overlays">
-                  <h2>Lorum Ipsum</h2>
+                  <h2>Serving</h2>
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
       </div>
       </div>
     </section>

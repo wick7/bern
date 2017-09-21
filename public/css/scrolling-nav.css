@@ -163,8 +163,8 @@ of those sections to manage the look and feel of the site. */
 .item h1 {
   color: white;
   position: absolute;
-  top: 5%;
-  left: 10%;
+  top: 50%;
+  left: 25%;
   bottom:0;
 }
 
