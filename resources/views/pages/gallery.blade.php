@@ -55,12 +55,12 @@
 <div class="container" style="margin-bottom: 2em;">
   <div class="row first">
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <div class="first-img" data-toggle="modal" data-target="#myModal1" alt="" style="background-image: url({{asset('/images/g1.jpg')}})"></div>
+      <div class="first-img" data-toggle="modal" data-target="#myModal1" alt="" style="background-image: url({{asset('/images/g1.JPG')}})"></div>
       <div class="modal fade" id="myModal1" role="dialog">
         <div class="modal-dialog modal-lg">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
-            <img class="second-img" src="{{asset('/images/g1.jpg')}}"
+            <img class="second-img" src="{{asset('/images/g1.JPG')}}"
               alt="" />
 
           </div>
@@ -73,7 +73,7 @@
         <div class="modal-dialog modal-lg">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
-            <img class="second-img" src="{{asset('/images/g6.jpg')}}"
+            <img class="second-img" src="{{asset('/images/g6.JPG')}}"
               alt="" />
 
           </div>
@@ -81,13 +81,13 @@
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <div class="first-img" data-toggle="modal" data-target="#myModal3" style="background-image: url({{asset('/images/g9.png')}}"
+      <div class="first-img" data-toggle="modal" data-target="#myModal3" style="background-image: url({{asset('/images/g9.PNG')}}"
         alt="" ></div>
       <div class="modal fade" id="myModal3" role="dialog">
         <div class="modal-dialog modal-lg">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
-            <img class="second-img" src="{{asset('/images/g9.png')}}"
+            <img class="second-img" src="{{asset('/images/g9.PNG')}}"
               alt="" />
           </div>
         </div>
@@ -97,13 +97,13 @@
 
   <div class="row second">
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <div class="first-img" data-toggle="modal" data-target="#myModal4" style="background-image: url({{asset('/images/g5.jpg')}})"
+      <div class="first-img" data-toggle="modal" data-target="#myModal4" style="background-image: url({{asset('/images/g5.JPG')}})"
         alt=""></div>
       <div class="modal fade" id="myModal4" role="dialog">
         <div class="modal-dialog modal-lg">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
-            <img class="second-img" src="{{asset('/images/g5.jpg')}}"
+            <img class="second-img" src="{{asset('/images/g5.JPG')}}"
               alt="" />
           </div>
         </div>
@@ -123,13 +123,13 @@
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <div class="first-img" data-toggle="modal" data-target="#myModal6" style="background-image: url({{asset('/images/g3.png')}}"
+      <div class="first-img" data-toggle="modal" data-target="#myModal6" style="background-image: url({{asset('/images/g3.PNG')}}"
         alt="" ></div>
       <div class="modal fade" id="myModal6" role="dialog">
         <div class="modal-dialog modal-lg">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
-            <img class="second-img" src="{{asset('/images/g3.png')}}"
+            <img class="second-img" src="{{asset('/images/g3.PNG')}}"
               alt="" />
           </div>
         </div>
@@ -139,39 +139,39 @@
 
   <div class="row third">
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <div class="first-img" data-toggle="modal" data-target="#myModal7" style="background-image: url({{asset('/images/g8.png')}}"
+      <div class="first-img" data-toggle="modal" data-target="#myModal7" style="background-image: url({{asset('/images/g8.PNG')}}"
         alt="" ></div>
       <div class="modal fade" id="myModal7" role="dialog">
         <div class="modal-dialog modal-lg">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
-            <img class="second-img" src="{{asset('/images/g8.png')}}"
+            <img class="second-img" src="{{asset('/images/g8.PNG')}}"
               alt="" />
           </div>
         </div>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <div class="first-img" data-toggle="modal" data-target="#myModal8" style="background-image: url({{asset('/images/g11.png')}})"
+      <div class="first-img" data-toggle="modal" data-target="#myModal8" style="background-image: url({{asset('/images/g11.PNG')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal8" role="dialog">
         <div class="modal-dialog modal-lg">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
-            <img class="second-img" src="{{asset('/images/g11.png')}}"
+            <img class="second-img" src="{{asset('/images/g11.PNG')}}"
               alt="" />
           </div>
         </div>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <div class="first-img" data-toggle="modal" data-target="#myModal9" style="background-image: url({{asset('/images/g10.png')}})"
+      <div class="first-img" data-toggle="modal" data-target="#myModal9" style="background-image: url({{asset('/images/g10.PNG')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal9" role="dialog">
         <div class="modal-dialog modal-lg">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
-            <img class="second-img" src="{{asset('/images/g10.png')}}"
+            <img class="second-img" src="{{asset('/images/g10.PNG')}}"
               alt="" />
           </div>
         </div>
@@ -181,26 +181,26 @@
 
   <div class="row fourth">
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <div class="first-img" data-toggle="modal" data-target="#myModal10" style="background-image: url({{asset('/images/g2.png')}})"
+      <div class="first-img" data-toggle="modal" data-target="#myModal10" style="background-image: url({{asset('/images/g2.PNG')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal10" role="dialog">
         <div class="modal-dialog modal-lg">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
-            <img class="second-img" src="{{asset('/images/g2.png')}}"
+            <img class="second-img" src="{{asset('/images/g2.PNG')}}"
               alt="" />
           </div>
         </div>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <div class="first-img" data-toggle="modal" data-target="#myModal11" style="background-image: url({{asset('/images/g7.png')}})"
+      <div class="first-img" data-toggle="modal" data-target="#myModal11" style="background-image: url({{asset('/images/g7.PNG')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal11" role="dialog">
         <div class="modal-dialog modal-lg">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
-            <img class="second-img" src="{{asset('/images/g7.png')}}"
+            <img class="second-img" src="{{asset('/images/g7.PNG')}}"
               alt="" />
           </div>
         </div>
