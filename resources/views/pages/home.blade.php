@@ -95,6 +95,11 @@
                   <li data-target="#myCarousel" data-slide-to="3"></li>
                   <li data-target="#myCarousel" data-slide-to="4"></li>
                   <li data-target="#myCarousel" data-slide-to="5"></li>
+                  <li data-target="#myCarousel" data-slide-to="6"></li>
+                  <li data-target="#myCarousel" data-slide-to="7"></li>
+                  <li data-target="#myCarousel" data-slide-to="8"></li>
+                  <li data-target="#myCarousel" data-slide-to="9"></li>
+                  <li data-target="#myCarousel" data-slide-to="10"></li>
                 </ol>
 
                 <!-- Wrapper for slides -->
@@ -126,6 +131,31 @@
                   <div class="item">
                     <img src="{{asset('/images/a6.JPG')}}" alt="Decor">
                     <h1 style="margin-left: 25%;">Decor</h1>
+                  </div>
+
+                  <div class="item">
+                    <img src="{{asset('/images/a7.JPG')}}" alt="Description">
+                    <h1 style="margin-left: 25%;">Description</h1>
+                  </div>
+
+                  <div class="item">
+                    <img src="{{asset('/images/a8.JPG')}}" alt="Description">
+                    <h1 style="margin-left: 25%;">Description</h1>
+                  </div>
+
+                  <div class="item">
+                    <img src="{{asset('/images/a9.JPG')}}" alt="Description">
+                    <h1 style="margin-left: 25%;">Description</h1>
+                  </div>
+
+                  <div class="item">
+                    <img src="{{asset('/images/a10.JPG')}}" alt="Description">
+                    <h1 style="margin-left: 25%;">Description</h1>
+                  </div>
+
+                  <div class="item">
+                    <img src="{{asset('/images/a11.JPG')}}" alt="Description">
+                    <h1 style="margin-left: 25%;">Description</h1>
                   </div>
 
                 </div>
