@@ -170,6 +170,7 @@
           <div class="row">
             <div class="col-md-4">
               <div class="panel panel-default">
+                <h2 class="mobile_desc">Kitchen Utility</h2>
                 <div class="panel-body">
                   <img class="homeware_img" src="/images/h1.PNG" />
                   <div class="overlays">
@@ -180,6 +181,7 @@
             </div>
             <div class="col-md-4">
               <div class="panel panel-default">
+                <h2 class="mobile_desc">Dining Ware</h2>
                 <div class="panel-body">
                   <img class="homeware_img" src="/images/h2.jpg" />
                   <div class="overlays">
@@ -190,6 +192,7 @@
             </div>
             <div class="col-md-4">
               <div class="panel panel-default">
+                <h2 class="mobile_desc">Cooking & Baking</h2>
                 <div class="panel-body">
                   <img class="homeware_img" src="/images/h3.jpg" />
                   <div class="overlays">
@@ -202,6 +205,7 @@
         <div class="row">
           <div class="col-md-4">
             <div class="panel panel-default">
+              <h2 class="mobile_desc">Decorative</h2>
               <div class="panel-body">
                 <img class="homeware_img" src="/images/h4.jpg" />
                 <div class="overlays">
@@ -213,6 +217,7 @@
           </div>
           <div class="col-md-4">
             <div class="panel panel-default">
+              <h2 class="mobile_desc">Serving</h2>
               <div class="panel-body">
                 <img class="homeware_img" src="/images/h5.JPG" />
                 <div class="overlays">
@@ -223,6 +228,7 @@
           </div>
           <div class="col-md-4">
             <div class="panel panel-default">
+              <h2 class="mobile_desc">Household</h2>
               <div class="panel-body">
                 <img class="homeware_img" src="/images/h6.JPG" />
                 <div class="overlays">

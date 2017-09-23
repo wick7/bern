@@ -53,12 +53,20 @@ background: linear-gradient(to left, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Fi
     .antiques-section p {
       margin-top: 7em;
     }
+    .mobile_desc {
+      display: none;
+    }
 
 }
+
 
 /* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children
 of those sections to manage the look and feel of the site. */
+
+.mobile_desc {
+  display: ;
+}
 
 .intro-section {
     height: 100vh;
