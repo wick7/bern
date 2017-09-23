@@ -106,27 +106,27 @@
                   </div>
 
                   <div class="item">
-                    <img src="{{asset('/images/a2.JPG')}}" alt="Cups">
-                    <h1>American Pottery</h1>
-                  </div>
-
-                  <div class="item">
-                    <img src="{{asset('/images/a3.JPG')}}" alt="Chess">
-                    <h1>Household Decor</h1>
-                  </div>
-                  <div class="item">
-                    <img src="{{asset('/images/a4.JPG')}}" alt="Candle">
-                    <h1>Antique Home</h1>
-                  </div>
-
-                  <div class="item">
-                    <img src="{{asset('/images/a5.JPG')}}" alt="Cups">
+                    <img src="{{asset('/images/a2.JPG')}}" alt="Small Collectibles">
                     <h1>Small Collectibles</h1>
                   </div>
 
                   <div class="item">
-                    <img src="{{asset('/images/a6.JPG')}}" alt="Chess">
-                    <h1 style="margin-left: 1em;">Decoratives</h1>
+                    <img src="{{asset('/images/a3.JPG')}}" alt="Decorative">
+                    <h1>Decorative</h1>
+                  </div>
+                  <div class="item">
+                    <img src="{{asset('/images/a4.JPG')}}" alt="Vintage Kitchen">
+                    <h1>Vintage Kitchen</h1>
+                  </div>
+
+                  <div class="item">
+                    <img src="{{asset('/images/a5.JPG')}}" alt="American Pottery">
+                    <h1>American Pottery</h1>
+                  </div>
+
+                  <div class="item">
+                    <img src="{{asset('/images/a6.JPG')}}" alt="Decor">
+                    <h1 style="margin-left: 4em;">Decor</h1>
                   </div>
 
                 </div>
@@ -211,10 +211,10 @@
               </div>
             </div>
           </div>
-          <!-- <div class="col-md-4">
+          <div class="col-md-4">
             <div class="panel panel-default">
               <div class="panel-body">
-                <img class="homeware_img" src="/images/h5_resized.jpg" />
+                <img class="homeware_img" src="/images/h5.jpg" />
                 <div class="overlays">
                   <h2>Serving</h2>
                 </div>
@@ -224,13 +224,13 @@
           <div class="col-md-4">
             <div class="panel panel-default">
               <div class="panel-body">
-                <img class="homeware_img" src="/images/h6.JPG" />
+                <img class="homeware_img" src="/images/h6.jpg" />
                 <div class="overlays">
-                  <h2>Serving</h2>
+                  <h2>Household</h2>
                 </div>
               </div>
             </div>
-          </div> -->
+          </div>
       </div>
       </div>
     </section>

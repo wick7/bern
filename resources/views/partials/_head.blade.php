@@ -22,6 +22,10 @@
   <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
   <script src="js/scrolling-nav.js"></script>
 
+   <!-- Favicon  -->
+   <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
   <!--- FontAwesome -->
 
   <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'>

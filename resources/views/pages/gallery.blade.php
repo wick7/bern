@@ -45,9 +45,9 @@
     </div>
     </div>
     <div class="row">
-      <div class="col-lg-12 col-md-12 col-xs-12 text-center">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <div class="col-lg-12 col-md-12 col-xs-12 text-center gs_title">
+        <p>Wonderful finds, local craftsmen, international discoveries - special items and curiosities for home and person.</p>
+        <p>There are so many creative, beautiful and useful products which sometimes defy categorization that we just needed somewhere to put them!</p>
       </div>
     </div>
   </div>
@@ -57,8 +57,8 @@
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
       <div class="first-img" data-toggle="modal" data-target="#myModal1" alt="" style="background-image: url({{asset('/images/g1.JPG')}})"></div>
       <div class="modal fade" id="myModal1" role="dialog">
-        <div class="modal-dialog modal-lg">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
+        <div class="modal-dialog modal-md">
+          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">Folk Art & Crafts</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g1.JPG')}}"
               alt="" />
@@ -70,7 +70,7 @@
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
       <div class="first-img" data-toggle="modal" data-target="#myModal2" style="background-image: url({{asset('/images/g6.JPG')}})" alt="" ></div>
       <div class="modal fade" id="myModal2" role="dialog">
-        <div class="modal-dialog modal-lg">
+        <div class="modal-dialog modal-md">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g6.JPG')}}"
@@ -84,8 +84,8 @@
       <div class="first-img" data-toggle="modal" data-target="#myModal3" style="background-image: url({{asset('/images/g9.PNG')}}"
         alt="" ></div>
       <div class="modal fade" id="myModal3" role="dialog">
-        <div class="modal-dialog modal-lg">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
+        <div class="modal-dialog modal-md">
+          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">Ephrmera</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g9.PNG')}}"
               alt="" />
@@ -100,7 +100,7 @@
       <div class="first-img" data-toggle="modal" data-target="#myModal4" style="background-image: url({{asset('/images/g5.JPG')}})"
         alt=""></div>
       <div class="modal fade" id="myModal4" role="dialog">
-        <div class="modal-dialog modal-lg">
+        <div class="modal-dialog modal-md">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g5.JPG')}}"
@@ -113,7 +113,7 @@
       <div class="first-img" data-toggle="modal" data-target="#myModal5" style="background-image: url({{asset('/images/g4.jpg')}}"
         alt="" ></div>
       <div class="modal fade" id="myModal5" role="dialog">
-        <div class="modal-dialog modal-lg">
+        <div class="modal-dialog modal-md">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g4.jpg')}}"
@@ -126,8 +126,8 @@
       <div class="first-img" data-toggle="modal" data-target="#myModal6" style="background-image: url({{asset('/images/g3.PNG')}}"
         alt="" ></div>
       <div class="modal fade" id="myModal6" role="dialog">
-        <div class="modal-dialog modal-lg">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
+        <div class="modal-dialog modal-md">
+          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:black;">Ephrmera</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g3.PNG')}}"
               alt="" />
@@ -142,8 +142,8 @@
       <div class="first-img" data-toggle="modal" data-target="#myModal7" style="background-image: url({{asset('/images/g8.PNG')}}"
         alt="" ></div>
       <div class="modal fade" id="myModal7" role="dialog">
-        <div class="modal-dialog modal-lg">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
+        <div class="modal-dialog modal-md">
+          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:black;">Ephrmera</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g8.PNG')}}"
               alt="" />
@@ -155,7 +155,7 @@
       <div class="first-img" data-toggle="modal" data-target="#myModal8" style="background-image: url({{asset('/images/g11.PNG')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal8" role="dialog">
-        <div class="modal-dialog modal-lg">
+        <div class="modal-dialog modal-md">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g11.PNG')}}"
@@ -168,7 +168,7 @@
       <div class="first-img" data-toggle="modal" data-target="#myModal9" style="background-image: url({{asset('/images/g10.PNG')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal9" role="dialog">
-        <div class="modal-dialog modal-lg">
+        <div class="modal-dialog modal-md">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g10.PNG')}}"
@@ -184,7 +184,7 @@
       <div class="first-img" data-toggle="modal" data-target="#myModal10" style="background-image: url({{asset('/images/g2.PNG')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal10" role="dialog">
-        <div class="modal-dialog modal-lg">
+        <div class="modal-dialog modal-md">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g2.PNG')}}"
@@ -194,26 +194,26 @@
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <div class="first-img" data-toggle="modal" data-target="#myModal11" style="background-image: url({{asset('/images/g7.PNG')}})"
+      <div class="first-img" data-toggle="modal" data-target="#myModal11" style="background-image: url({{asset('/images/g7.jpg')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal11" role="dialog">
-        <div class="modal-dialog modal-lg">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
+        <div class="modal-dialog modal-md">
+          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:black;">Ephrmera</h1>
           <div class="modal-content">
-            <img class="second-img" src="{{asset('/images/g7.PNG')}}"
+            <img class="second-img" src="{{asset('/images/g7.jpg')}}"
               alt="" />
           </div>
         </div>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <div class="first-img" data-toggle="modal" data-target="#myModal12" style="background-image: url(https://photos-2.dropbox.com/t/2/AADlNt3dk-6oGvfNX-iq-p6JuOq4T4I1Hg8llp9EtX3dyQ/12/393123092/jpeg/32x32/1/_/1/2/camera-old-antique-voigtlander.jpg/ENqWkJEDGJoPIAIoAg/FYpIO0S_A7kyPVNUnPR-nEnyZIEvsaei-JByjis7GyY?size=32x32&size_mode=5;"
+      <div class="first-img" data-toggle="modal" data-target="#myModal12" style="background-image: url({{asset('/images/g12.jpg')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal12" role="dialog">
-        <div class="modal-dialog modal-lg">
+        <div class="modal-dialog modal-md">
           <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
           <div class="modal-content">
-            <img class="second-img" src="https://photos-2.dropbox.com/t/2/AADlNt3dk-6oGvfNX-iq-p6JuOq4T4I1Hg8llp9EtX3dyQ/12/393123092/jpeg/32x32/1/_/1/2/camera-old-antique-voigtlander.jpg/ENqWkJEDGJoPIAIoAg/FYpIO0S_A7kyPVNUnPR-nEnyZIEvsaei-JByjis7GyY?size=32x32&size_mode=5"
+            <img class="second-img" src="{{asset('/images/g12.jpg')}}"
               alt="" />
           </div>
         </div>
