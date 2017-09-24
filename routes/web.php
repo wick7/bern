@@ -17,3 +17,5 @@
 
 Route::get('/', 'Pages@getIndex');
 Route::get('gallery', 'Pages@getGallery');
+Route::get('privacy-terms', 'Pages@getPrivacy_Terms');
+Route::get('attribution', 'Pages@getAttribution'); 

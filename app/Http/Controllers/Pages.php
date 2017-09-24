@@ -16,5 +16,14 @@ class Pages extends Controller{
         return view('pages.gallery');
       }
 
+      public function getPrivacy_Terms() {
+
+        return view('pages.privacy_terms');
+      }
+
+      public function getAttribution() {
+
+        return view('pages.attribution');
+      }
 
 }

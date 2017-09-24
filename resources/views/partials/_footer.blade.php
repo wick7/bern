@@ -46,8 +46,8 @@
     <div class="row">
       <div class="col-lg-12 col-md-12 center">
         <ul class="list-inline quicklinks">
-          <li><a href="#">Privacy Policy/Terms of Use</a></li>
-          <li><a href="#">Attribution</a></li>
+          <li><a href="{{url('privacy-terms')}}">Privacy Policy/Terms of Use</a></li>
+          <li><a href="{{url('attribution')}}">Attribution</a></li>
         </ul>
       </div>
     </div>
