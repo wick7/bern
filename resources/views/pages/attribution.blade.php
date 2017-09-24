@@ -47,7 +47,7 @@
     </div>
     <div class="row">
       <div class="col-md-12 text-center">
-        <h3>Created By <a href="http://davidmiller.io/" target"_blank">David Miller</a></h3>
+        <h3>Template Created By <a href="http://davidmiller.io/" target"_blank">David Miller</a></h3>
       </div>
     </div>
     <div class="row">
