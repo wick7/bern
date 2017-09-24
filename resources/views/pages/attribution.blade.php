@@ -37,7 +37,7 @@
 <div class="container" style="padding-top:100px;">
   <div class="row text-align">
     <div class="col-lg-12 col-md-12 col-xs-12 title text-center" style="color:black;">
-      <h1>Attribution</h1>
+      <h2>Attribution</h2>
       <hr align="center" width="45%" style="border-top: 3px solid #158429;">
     </div>
     </div>
