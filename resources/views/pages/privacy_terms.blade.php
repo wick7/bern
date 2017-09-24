@@ -37,13 +37,13 @@
 <div class="container" style="padding-top:100px;">
   <div class="row text-align">
     <div class="col-lg-12 col-md-12 col-xs-12 title text-center" style="color:black;">
-      <h1>Privacy Policy & Terms of Use</h1>
+      <h2>Privacy Policy & Terms of Use</h2>
       <hr align="center" width="45%" style="border-top: 3px solid #158429;">
     </div>
     </div>
     <div class="row text-align">
       <div class="col-lg-12 col-md-12 col-xs-12 title text-center" style="color:black;margin-bottom:2em;">
-        <h2>Last Updated: 9/23/17</h2>
+        <h4>Last Updated: 9/23/17</h4>
       </div>
       </div>
     <div class="row">

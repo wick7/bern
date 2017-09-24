@@ -111,7 +111,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .about-section p {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-family: 'Playfair Display', serif;
 }
 
@@ -121,10 +121,7 @@ of those sections to manage the look and feel of the site. */
    width: 9rem;
 }
 
-.ebay-section h2 {
-  font-family: 'Playfair Display', serif;
-  text-decoration: none;
-}
+
 
 .about-info  {
   height: auto;
@@ -132,14 +129,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 
-/*.ebay-section {
-  height: 30%;
-  max-height: 100%;
-  padding-top: 30px;
-  text-align: center;
-  background: #434443;
-  color: white;
-}*/
+
 
 .antiques-section {
     height: auto;
