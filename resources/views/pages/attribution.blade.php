@@ -43,8 +43,14 @@
     </div>
     <div class="row">
       <div class="col-md-12 text-center" style="margin: 2em;">
+        <h3>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></h3>
       </div>
     </div>
+    <div class="row text-align">
+      <div class="col-lg-12 col-md-12 col-xs-12 title text-center" style="color:black;">
+        <hr align="center" width="45%" style="border-top: 3px solid #158429;">
+      </div>
+      </div>
     <div class="row">
       <div class="col-md-12 text-center">
         <h3>Template Created By <a href="http://davidmiller.io/" target"_blank">David Miller</a></h3>
@@ -70,6 +76,7 @@
       </div>
     </div>
   </div>
+
 
 
 </body>
