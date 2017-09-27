@@ -38,9 +38,9 @@
     </div>
     <div class="row" style="background-color:;">
       <div class="col-lg-12 col-md-12" style="color: green; margin: 0 auto;">
-        <span class="fa fa-twitter-square fa-3x " ></span>
+        <!-- <span class="fa fa-twitter-square fa-3x " ></span>
         <span class="fa fa-facebook-square fa-3x "></span>
-        <span class="fa fa-linkedin-square fa-3x "></span>
+        <span class="fa fa-linkedin-square fa-3x "></span> -->
       </div>
     </div>
     <div class="row">

@@ -1,14 +1,16 @@
 
 <!DOCTYPE html>
 
+
 <html lang="en">
 @include('partials._head')
 <!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
 
+<!-- Navigation -->
+@include('partials._nav')
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-    <!-- Navigation -->
-    @include('partials._nav')
+
 
     <!-- Intro Section -->
     <section id="intro" class="intro-section">
@@ -18,7 +20,7 @@
                   <!-- <sup style=" width:.3em;vertical-align: top; position: relative; top: 1.4em; font-size: 2.5rem; background-color:;">&trade;</sup> -->
                   <h1>Bernalese</h1>
                   <h4>...do you speak it?</h4>
-                  <!-- <p>Character For Your Home</p> -->
+                  <p>Character For Your Home</p>
                   <p>Antiques, Contemporary Homeware & Just Great Stuff</p>
                   <!-- <div class="btn btn-custom page-scroll" href="#about">Learn More</div> -->
                   <a class="page-scroll" href="#about"><div class="btn btn-primary"  style="background-color: #16511f;padding-top:1.2em; padding-bottom:1.2em; padding-right:3em;padding-left:3em; width: auto; border-radius:25px;margin-top:2em; font-size:18px;">Learn More</div></a>
@@ -280,7 +282,8 @@
       </div>
     </section>
 
-@include('partials._footer')
+
+    @include('partials._footer')
 
 
     <!-- jQuery -->
@@ -294,7 +297,6 @@
     <script src="js/scrolling-nav.js"></script>
 
 </body>
-
 </html>
 
 

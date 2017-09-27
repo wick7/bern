@@ -4,15 +4,30 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
-body {
-    width: 100%;
-    height: 100%;
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+
 }
 
-html {
-    width: 100%;
-    height: 100%;
+
+.footer {
+  background-color:black;
+  height: auto;
+  width: 100%;
+  padding-top:1em;
+  position: relative;
+  bottom: 0;
 }
+
+.footer a {
+  color:white;
+}
+
+
 
 /*.navbar {
   border: 1px solid #158429;
@@ -24,6 +39,7 @@ background: linear-gradient(to left, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Fi
 
 .navbar {
   background-color: green;
+
 }
 
 
@@ -34,6 +50,7 @@ background: linear-gradient(to left, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Fi
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
         transition: background .5s ease-in-out,padding .5s ease-in-out;
         border: 1px solid #158429;
+
     }
 
     .top-nav-collapse {
@@ -64,6 +81,10 @@ background: linear-gradient(to left, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Fi
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children
 of those sections to manage the look and feel of the site. */
 
+.overlays h2 {
+  font-family: 'Playfair Display', serif;
+}
+
 .mobile_desc {
   display: ;
 }
@@ -76,6 +97,7 @@ of those sections to manage the look and feel of the site. */
     background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
+   overflow-x: hidden;
 }
 
 .btn {
@@ -108,6 +130,7 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: #eee;
     padding-bottom: 100px;
+    overflow-x: hidden;
 }
 
 .about-section p {
@@ -139,6 +162,7 @@ of those sections to manage the look and feel of the site. */
     margin-bottom: 8em;
     margin-left: .5em;
     margin-right: .5em;
+    overflow-x: hidden;
 }
 
 .antiques-section p {
@@ -173,6 +197,7 @@ of those sections to manage the look and feel of the site. */
     padding-bottom: 50px;
     text-align: center;
     background: #eee;
+    overflow-x: hidden;
 }
 
 .homeware-section p {
@@ -217,16 +242,7 @@ of those sections to manage the look and feel of the site. */
   opacity: 1;
 }
 
-.footer {
-  background-color:black;
-  height: auto;
-  width: 100vw;
-  padding-top:1em;
-}
 
-.footer a {
-  color:white;
-}
 
 .line {
     display: block;
@@ -260,10 +276,11 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: #fff;
     padding-bottom: 20px;
-    background-image: url("/images/gs_bg.jpeg");
+    background-image: url("/images/front-bg.jpeg");
     background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
+   overflow-x: hidden;
 }
 
 .gs_title p {
