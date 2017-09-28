@@ -59,7 +59,7 @@
 
 
 </body>
-@include('partials._footer')
+@include('partials._footerAdmin')
 
 
 <!-- jQuery -->

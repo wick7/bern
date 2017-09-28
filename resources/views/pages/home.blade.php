@@ -108,56 +108,56 @@
                 <div class="carousel-inner">
                   <div class="item active">
                     <img src="{{asset('/images/a1.JPG')}}" alt="Candle">
-                    <h1>Vintage Kitchen</h1>
+                    <h1 style="margin-left: 15%;">Antique Home</h1>
                   </div>
 
                   <div class="item">
                     <img src="{{asset('/images/a2.JPG')}}" alt="Small Collectibles">
-                    <h1>Small Collectibles</h1>
+                    <h1 style="margin-left: 12%;">Small Collectibles</h1>
                   </div>
 
                   <div class="item">
                     <img src="{{asset('/images/a3.JPG')}}" alt="Decorative">
-                    <h1 style="margin-left: 15%;">Decorative</h1>
+                    <h1 style="margin-left: 20%;">Decorative</h1>
                   </div>
                   <div class="item">
                     <img src="{{asset('/images/a4.JPG')}}" alt="Vintage Kitchen">
-                    <h1>Vintage Kitchen</h1>
+                    <h1 style="margin-left: 12%;">Vintage Kitchen</h1>
                   </div>
 
                   <div class="item">
                     <img src="{{asset('/images/a5.JPG')}}" alt="American Pottery">
-                    <h1>American Pottery</h1>
+                    <h1 style="margin-left: 12%;">American Pottery</h1>
                   </div>
 
                   <div class="item">
                     <img src="{{asset('/images/a6.JPG')}}" alt="Decor">
-                    <h1 style="margin-left: 25%;">Decor</h1>
+                    <h1 style="margin-left: 26%;">Decor</h1>
                   </div>
 
                   <div class="item">
                     <img src="{{asset('/images/a7.JPG')}}" alt="Description">
-                    <h1 style="margin-left: 25%;">Description</h1>
+                    <h1 style="margin-left: 20%;">Entertaining</h1>
                   </div>
 
                   <div class="item">
                     <img src="{{asset('/images/a8.JPG')}}" alt="Description">
-                    <h1 style="margin-left: 25%;">Description</h1>
+                    <h1 style="margin-left: 15%;">Ceramic Design</h1>
                   </div>
 
                   <div class="item">
                     <img src="{{asset('/images/a9.JPG')}}" alt="Description">
-                    <h1 style="margin-left: 25%;">Description</h1>
+                    <h1 style="margin-left: 15%;">Home Memories</h1>
                   </div>
 
                   <div class="item">
                     <img src="{{asset('/images/a10.JPG')}}" alt="Description">
-                    <h1 style="margin-left: 25%;">Description</h1>
+                    <h1 style="margin-left: 10%;margin-top: 10%;">Fun from the Past</h1>
                   </div>
 
                   <div class="item">
                     <img src="{{asset('/images/a11.JPG')}}" alt="Description">
-                    <h1 style="margin-left: 25%;">Description</h1>
+                    <h1 style="margin-left: 15%;">The Collector</h1>
                   </div>
 
                 </div>
@@ -280,10 +280,13 @@
           </div>
         </div>
       </div>
+
     </section>
 
+@include('partials._footer')
 
-    @include('partials._footer')
+
+
 
 
     <!-- jQuery -->
@@ -297,6 +300,7 @@
     <script src="js/scrolling-nav.js"></script>
 
 </body>
+
 </html>
 
 

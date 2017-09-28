@@ -51,7 +51,7 @@
         <hr align="center" width="45%" style="border-top: 3px solid #158429;">
       </div>
       </div>
-    <div class="row">
+    {{-- <div class="row">
       <div class="col-md-12 text-center">
         <h3>Template Created By <a href="http://davidmiller.io/" target"_blank">David Miller</a></h3>
       </div>
@@ -74,13 +74,15 @@
     <div class="row">
       <div class="col-md-12 text-center" style="margin: 2em;">
       </div>
-    </div>
+    </div> --}}
   </div>
 
 
+    @include('partials._footerAdmin')
+
 
 </body>
-@include('partials._footer')
+
 
 
 <!-- jQuery -->

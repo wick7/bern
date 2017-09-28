@@ -20,7 +20,7 @@
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
+        {{-- <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
                 <li class="hidden">
                     <a class="page-scroll" href="#page-top"></a>
@@ -29,7 +29,7 @@
                     <a class="page-scroll" href="{{ url('gallery')}}" style="color: white;font-size:1.7rem;">Just Great Stuff</a>
                 </li>
             </ul>
-        </div>
+        </div> --}}
     </div>
 </nav>
 
@@ -66,11 +66,11 @@
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <h2 class="mobile_desc text-center">DESCRIPTION OF IMAGE</h2>
+      <h2 class="mobile_desc text-center">Craft Material Goods</h2>
       <div class="first-img" data-toggle="modal" data-target="#myModal2" style="background-image: url({{asset('/images/g6.JPG')}})" alt="" ></div>
       <div class="modal fade" id="myModal2" role="dialog">
         <div class="modal-dialog modal-md">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
+          <h1 style="position:relative; top:100px;left:20px; z-index:2; color:white;">Craft Material Goods</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g6.JPG')}}"
               alt="" />
@@ -80,12 +80,12 @@
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <h2 class="mobile_desc text-center">Ephrmera</h2>
+      <h2 class="mobile_desc text-center">Ephemera</h2>
       <div class="first-img" data-toggle="modal" data-target="#myModal3" style="background-image: url({{asset('/images/g9.PNG')}}"
         alt="" ></div>
       <div class="modal fade" id="myModal3" role="dialog">
         <div class="modal-dialog modal-md">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">Ephrmera</h1>
+          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">Ephemera</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g9.PNG')}}"
               alt="" />
@@ -97,12 +97,12 @@
 
   <div class="row second">
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <h2 class="mobile_desc text-center">DESCRIPTION OF IMAGE</h2>
+      <h2 class="mobile_desc text-center">Weaving</h2>
       <div class="first-img" data-toggle="modal" data-target="#myModal4" style="background-image: url({{asset('/images/g5.JPG')}})"
         alt=""></div>
       <div class="modal fade" id="myModal4" role="dialog">
         <div class="modal-dialog modal-md">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
+          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:black;">Weaving</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g5.JPG')}}"
               alt="" />
@@ -111,12 +111,12 @@
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <h2 class="mobile_desc text-center">DESCRIPTION OF IMAGE</h2>
+      <h2 class="mobile_desc text-center">Memorabilia</h2>
       <div class="first-img" data-toggle="modal" data-target="#myModal5" style="background-image: url({{asset('/images/g4.jpg')}}"
         alt="" ></div>
       <div class="modal fade" id="myModal5" role="dialog">
         <div class="modal-dialog modal-md">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
+          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">Memorabilia</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g4.jpg')}}"
               alt="" />
@@ -125,12 +125,12 @@
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <h2 class="mobile_desc text-center">Ephrmera</h2>
+      <h2 class="mobile_desc text-center">Bay Area Collecting</h2>
       <div class="first-img" data-toggle="modal" data-target="#myModal6" style="background-image: url({{asset('/images/g3.PNG')}}"
         alt="" ></div>
       <div class="modal fade" id="myModal6" role="dialog">
         <div class="modal-dialog modal-md">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:black;">Ephrmera</h1>
+          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:black;">Bay Area Collecting</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g3.PNG')}}"
               alt="" />
@@ -142,12 +142,12 @@
 
   <div class="row third">
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <h2 class="mobile_desc text-center">Ephrmera</h2>
+      <h2 class="mobile_desc text-center">Ephemera</h2>
       <div class="first-img" data-toggle="modal" data-target="#myModal7" style="background-image: url({{asset('/images/g8.PNG')}}"
         alt="" ></div>
       <div class="modal fade" id="myModal7" role="dialog">
         <div class="modal-dialog modal-md">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:black;">Ephrmera</h1>
+          <h1 style="position:relative; top:150px;left:20px; z-index:2; color:black;">Ephemera</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g8.PNG')}}"
               alt="" />
@@ -156,12 +156,12 @@
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <h2 class="mobile_desc text-center">DESCRIPTION OF IMAGE</h2>
+      <h2 class="mobile_desc text-center">Ceramics</h2>
       <div class="first-img" data-toggle="modal" data-target="#myModal8" style="background-image: url({{asset('/images/g11.PNG')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal8" role="dialog">
         <div class="modal-dialog modal-md">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
+          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">Ceramics</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g11.PNG')}}"
               alt="" />
@@ -170,12 +170,12 @@
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <h2 class="mobile_desc text-center">DESCRIPTION OF IMAGE</h2>
+      <h2 class="mobile_desc text-center">Serving & Dining</h2>
       <div class="first-img" data-toggle="modal" data-target="#myModal9" style="background-image: url({{asset('/images/g10.PNG')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal9" role="dialog">
         <div class="modal-dialog modal-md">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
+          <h1 style="position:relative; top:75px;left:150px; z-index:2; color:black;">Serving & Dining</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g10.PNG')}}"
               alt="" />
@@ -187,12 +187,12 @@
 
   <div class="row fourth">
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <h2 class="mobile_desc text-center">DESCRIPTION OF IMAGE</h2>
+      <h2 class="mobile_desc text-center">International</h2>
       <div class="first-img" data-toggle="modal" data-target="#myModal10" style="background-image: url({{asset('/images/g2.PNG')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal10" role="dialog">
         <div class="modal-dialog modal-md">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
+          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:black;">International</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g2.PNG')}}"
               alt="" />
@@ -201,12 +201,12 @@
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <h2 class="mobile_desc text-center">Ephrmera</h2>
+      <h2 class="mobile_desc text-center">California</h2>
       <div class="first-img" data-toggle="modal" data-target="#myModal11" style="background-image: url({{asset('/images/g7.jpg')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal11" role="dialog">
         <div class="modal-dialog modal-md">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:black;">Ephrmera</h1>
+          <h1 style="position:relative; top:75px;left:200px; z-index:2; color:black;">California</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g7.jpg')}}"
               alt="" />
@@ -215,12 +215,12 @@
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-lg-4" style="padding-top:15px;">
-      <h2 class="mobile_desc text-center">DESCRIPTION OF IMAGE</h2>
+      <h2 class="mobile_desc text-center">The Fun Home</h2>
       <div class="first-img" data-toggle="modal" data-target="#myModal12" style="background-image: url({{asset('/images/g12.jpg')}})"
         alt="" ></div>
       <div class="modal fade" id="myModal12" role="dialog">
         <div class="modal-dialog modal-md">
-          <h1 style="position:relative; top:75px;left:20px; z-index:2; color:white;">DESCRIPTION OF IMAGE</h1>
+          <h1 style="position:relative; top:75px;left:150px; z-index:2; color:white;">The Fun Home</h1>
           <div class="modal-content">
             <img class="second-img" src="{{asset('/images/g12.jpg')}}"
               alt="" />
@@ -231,8 +231,9 @@
   </div>
 </div>
 
-</body>
 @include('partials._footer')
+</body>
+
 
 
 <!-- jQuery -->
@@ -244,10 +245,6 @@
 <!-- Scrolling Nav JavaScript -->
 <script src="js/jquery.easing.min.js"></script>
 <script src="js/scrolling-nav.js"></script>
-
-</div>
-</div>
-
 
 
 </html>
