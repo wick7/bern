@@ -13,7 +13,7 @@
     <link href="css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/scrolling-nav.css" rel="stylesheet">
+    <link href="css/scrolling-nav.min.css" rel="stylesheet">
 
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
