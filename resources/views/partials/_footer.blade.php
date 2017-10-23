@@ -48,6 +48,7 @@
         <ul class="list-inline quicklinks">
           <li><a href="{{url('privacy-terms')}}">Privacy Policy/Terms of Use</a></li>
           <li><a href="{{url('attribution')}}">Attribution</a></li>
+          <li style="color: white;">Contact Us! T: 415-696-1634 E:<a href="mailto:info@bernalese.com"> info@bernalese.com</a></li>
         </ul>
       </div>
     </div>
